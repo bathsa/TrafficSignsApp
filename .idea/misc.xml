@@ -3,6 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.2385" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/activity_main2.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/activity_main_peraturan.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/five_expandable_desc.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/five_expandable_parent.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/four_expandable_desc.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/four_expandable_parent.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/one_expandable_desc.xml" value="0.2" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/one_expandable_parent.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/seven_expandable_desc.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/seven_expandable_parent.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/six_expandable_desc.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/six_expandable_parent.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/three_expandable_desc.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/three_expandable_parent.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/two_expandable_desc.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidStudio/JAVA/Repo Sabbat/TrafficSignsApp/app/src/main/res/layout/two_expandable_parent.xml" value="0.23229166666666667" />
         <entry key="..\:/ProjectAndroidStudio/JAVA/TrafficSignsApp/app/src/main/res/drawable-v24/btn_exit_bg.xml" value="0.159" />
         <entry key="..\:/ProjectAndroidStudio/JAVA/TrafficSignsApp/app/src/main/res/drawable/btn_background.xml" value="0.149" />
         <entry key="..\:/ProjectAndroidStudio/JAVA/TrafficSignsApp/app/src/main/res/drawable/btn_bg.xml" value="0.2385" />
